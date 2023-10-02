@@ -7,14 +7,14 @@ const weatherIcons= {
     '10d': '/icons/CloudSunRain.svg',
     '11d': '/icons/Storm.svg',
     '13d': '/icons/Snowing.svg',
-    '01n': '/icons/Sun.svg',
-    '02n': '/icons/Sun.svg',
-    '03n': '/icons/Sun.svg',
-    '04n': '/icons/Sun.svg',
-    '09n': '/icons/Sun.svg',
-    '10n': '/icons/Sun.svg',
-    '11n': '/icons/Sun.svg',
-    '13n': '/icons/Sun.svg',
+    '01n': '/icons/icons-night/moon.svg',
+    '02n': '/icons/icons-night/moon-cloud.svg',
+    '03n': '/icons/MoreClouds.svg',
+    '04n': '/icons/CloudsDark.svg',
+    '09n': '/icons/Rain.svg',
+    '10n': '/icons/icons-night/moon-cloud-rain.svg',
+    '11n': '/icons/Storm.svg',
+    '13n': '/icons/Snowing.svg',
   }
 
 

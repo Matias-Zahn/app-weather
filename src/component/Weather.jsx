@@ -35,12 +35,12 @@ function Weather({ weather }) {
               pressure={weather.main.pressure}
             />
           </div>
-          <picture className="  ">
+          <picture className="w-[150px] flex items-center justify-center">
             <img src={icons[weather.weather[0].icon]} alt="" />
           </picture>
         </section>
 
-        <section className="flex justify-between font-semibold items-center pb-4 pr-4 pl-4">
+        <section className="flex justify-between font-semibold items-center pb-4 pr-4 pl-4 mb-4">
           <h4 className="text-lg ">
             {weather.name}, {weather.sys.country}
           </h4>
